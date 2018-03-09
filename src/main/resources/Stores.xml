@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<Stores>
+<Store id="hh-1020">
+	<Name>HH_Canada</Name>
+	<Address>
+		<Address1>Canada</Address1>
+		<Address2>Canada_city</Address2>
+		<City>Canada</City>
+		<Province>Canada</Province>
+		<PostalCode>424001</PostalCode>
+		<Phone>+91-7709596352</Phone>
+		<Fax>+91-2262626262</Fax>
+		<Email>hhcanada@hh.com</Email>
+		<Latitude>1.0</Latitude>
+		<Longitude>2.0</Longitude>
+	</Address>
+	<WebPrescence>
+		<URL>url</URL>
+		<Facebook>hhcanada facebook</Facebook>
+		<Twitter>hhcanada twitter</Twitter>
+		<Instagram>hhcanada instagram</Instagram>
+		<Pinterest>hhcanada pintrest</Pinterest>
+		<Google>hhcanada google</Google>
+	</WebPrescence>
+	<StoreType>hh_Canada</StoreType>
+	<Warehouse>home hardware</Warehouse>
+	<EcommerceInd>true</EcommerceInd>
+	<Services>
+		<AirLiquidDepot type="boolean">false</AirLiquidDepot>
+		<BackyardProjectPackages type="boolean">false</BackyardProjectPackages>
+		<BottledWater type="boolean">false</BottledWater>
+		<ColourMatch type="boolean">false</ColourMatch>
+		<Delivery type="boolean">false</Delivery>
+		<FreeEstimates type="boolean">false</FreeEstimates>
+		<GiftWrapping type="boolean">false</GiftWrapping>
+		<GlassCutting type="boolean">false</GlassCutting>
+		<HomeAndCottageDesign type="boolean">false</HomeAndCottageDesign>
+		<HomeGiftCard type="boolean">false</HomeGiftCard>+
+		<HomeHandymanRepairs type="boolean">false</HomeHandymanRepairs>
+		<HomeInstalls type="boolean">false</HomeInstalls>
+		<KeyCutting type="boolean">false</KeyCutting>
+		<KitchenAndBathroomDesign type="boolean">false</KitchenAndBathroomDesign>
+		<KnifeSharpening type="boolean">false</KnifeSharpening>
+		<LockRepair type="boolean">false</LockRepair>
+		<Propane type="boolean">false</Propane>
+		<Purolator type="boolean">false</Purolator>
+		<ReKeyLocks type="boolean">false</ReKeyLocks>
+		<ScreenRepair type="boolean">false</ScreenRepair>
+		<SkateSharpening type="boolean">false</SkateSharpening>
+		<SpecialOrders type="boolean">false</SpecialOrders>
+		<ToolRental type="boolean">false</ToolRental>
+		<WeddingRegistry type="boolean">false</WeddingRegistry>
+		<WindowRepair type="boolean">false</WindowRepair>
+	</Services>
+	<CustomServices>
+		<CustomService>Custom Blinds</CustomService>
+		<CustomService>Electronic Recycling Collection</CustomService>
+	</CustomServices>
+	<Hours>
+		<Sunday Status="Closed"></Sunday>
+		<Monday Status="Open">
+			<Open>08:00</Open>
+			<Close>20:00</Close>
+		</Monday>
+		<Tuesday Status="Open">
+			<Open>09:00</Open>
+			<Close>21:00</Close>
+		</Tuesday>
+		<Wednesday Status="Open">
+			<Open>10:00</Open>
+			<Close>22:00</Close>
+		</Wednesday>
+		<Thursday Status="Open">
+			<Open>11:00</Open>
+			<Close>23:00</Close>
+		</Thursday>
+		<Friday Status="Open">
+			<Open>12:00</Open>
+			<Close>00:00</Close>
+		</Friday>
+		<Saturday Status="Open">
+			<Open>13:00</Open>
+			<Close>01:00</Close>
+		</Saturday>
+	</Hours>
+	<OwnerMessage>`</OwnerMessage>
+</Store>
+
+<Store id="hh-1000">
+	<Name>HH_French</Name>
+	<Address>
+		<Address1>French</Address1>
+		<Address2>French</Address2>
+		<City>French</City>
+		<Province>French</Province>
+		<PostalCode>424001</PostalCode>
+		<Phone>+91-7709596352</Phone>
+		<Fax>+91-2262626262</Fax>
+		<Email>hhfrench@hh.com</Email>
+		<Latitude>3.0</Latitude>
+		<Longitude>4.0</Longitude>
+	</Address>
+	<WebPrescence>
+		<URL>hhfrench url</URL>
+		<Facebook>hhfrench facebook</Facebook>
+		<Twitter>hhfrench twitter</Twitter>
+		<Instagram>hhfrench instagram</Instagram>
+		<Pinterest>hhfrench pintrest</Pinterest>
+		<Google>hhfrench google</Google>
+	</WebPrescence>
+	<StoreType> hh</StoreType>
+	<Warehouse>1</Warehouse>
+	<EcommerceInd>Y</EcommerceInd>
+	<Services>
+		<AirLiquidDepot type="boolean">false</AirLiquidDepot>
+		<BackyardProjectPackages type="boolean">false</BackyardProjectPackages>
+		<BottledWater type="boolean">false</BottledWater>
+		<ColourMatch type="boolean">false</ColourMatch>
+		<Delivery type="boolean">false</Delivery>
+		<FreeEstimates type="boolean">false</FreeEstimates>
+		<GiftWrapping type="boolean">false</GiftWrapping>
+		<GlassCutting type="boolean">false</GlassCutting>
+		<HomeAndCottageDesign type="boolean">false</HomeAndCottageDesign>
+		<HomeGiftCard type="boolean">false</HomeGiftCard>+
+		<HomeHandymanRepairs type="boolean">false</HomeHandymanRepairs>
+		<HomeInstalls type="boolean">false</HomeInstalls>
+		<KeyCutting type="boolean">false</KeyCutting>
+		<KitchenAndBathroomDesign type="boolean">false</KitchenAndBathroomDesign>
+		<KnifeSharpening type="boolean">false</KnifeSharpening>
+		<LockRepair type="boolean">false</LockRepair>
+		<Propane type="boolean">false</Propane>
+		<Purolator type="boolean">false</Purolator>
+		<ReKeyLocks type="boolean">false</ReKeyLocks>
+		<ScreenRepair type="boolean">false</ScreenRepair>
+		<SkateSharpening type="boolean">false</SkateSharpening>
+		<SpecialOrders type="boolean">false</SpecialOrders>
+		<ToolRental type="boolean">false</ToolRental>
+		<WeddingRegistry type="boolean">false</WeddingRegistry>
+		<WindowRepair type="boolean">false</WindowRepair>
+	</Services>
+	<CustomServices>
+		<CustomService>Custom Blinds</CustomService>
+		<CustomService>Electronic Recycling Collection</CustomService>
+	</CustomServices>
+	<Hours>
+		<Sunday Status="Closed"></Sunday>
+		<Monday Status="Open">
+			<Open>08:00</Open>
+			<Close>20:00</Close>
+		</Monday>
+		<Tuesday Status="Open">
+			<Open>09:00</Open>
+			<Close>21:00</Close>
+		</Tuesday>
+		<Wednesday Status="Open">
+			<Open>10:00</Open>
+			<Close>22:00</Close>
+		</Wednesday>
+		<Thursday Status="Open">
+			<Open>11:00</Open>
+			<Close>23:00</Close>
+		</Thursday>
+		<Friday Status="Open">
+			<Open>12:00</Open>
+			<Close>00:00</Close>
+		</Friday>
+		<Saturday Status="Open">
+			<Open>13:00</Open>
+			<Close>01:00</Close>
+		</Saturday>
+	</Hours>
+	<OwnerMessage></OwnerMessage>
+</Store>
+
+<Store id="hh-1021">
+	<Name>HH_French</Name>
+	<Address>
+		<Address1>French</Address1>
+		<Address2>French</Address2>
+		<City>French</City>
+		<Province>French</Province>
+		<PostalCode>424001</PostalCode>
+		<Phone>+91-7709596352</Phone>
+		<Fax>+91-2262626262</Fax>
+		<Email>hhfrench@hh.com</Email>
+		<Latitude>3.0</Latitude>
+		<Longitude>4.0</Longitude>
+	</Address>
+	<WebPrescence>
+		<URL>hhfrench url</URL>
+		<Facebook>hhfrench facebook</Facebook>
+		<Twitter>hhfrench twitter</Twitter>
+		<Instagram>hhfrench instagram</Instagram>
+		<Pinterest>hhfrench pintrest</Pinterest>
+		<Google>hhfrench google</Google>
+	</WebPrescence>
+	<StoreType> hh</StoreType>
+	<Warehouse>1</Warehouse>
+	<EcommerceInd>Y</EcommerceInd>
+	<Services>
+		<AirLiquidDepot type="boolean">false</AirLiquidDepot>
+		<BackyardProjectPackages type="boolean">false</BackyardProjectPackages>
+		<BottledWater type="boolean">false</BottledWater>
+		<ColourMatch type="boolean">false</ColourMatch>
+		<Delivery type="boolean">false</Delivery>
+		<FreeEstimates type="boolean">false</FreeEstimates>
+		<GiftWrapping type="boolean">false</GiftWrapping>
+		<GlassCutting type="boolean">false</GlassCutting>
+		<HomeAndCottageDesign type="boolean">false</HomeAndCottageDesign>
+		<HomeGiftCard type="boolean">false</HomeGiftCard>+
+		<HomeHandymanRepairs type="boolean">false</HomeHandymanRepairs>
+		<HomeInstalls type="boolean">false</HomeInstalls>
+		<KeyCutting type="boolean">false</KeyCutting>
+		<KitchenAndBathroomDesign type="boolean">false</KitchenAndBathroomDesign>
+		<KnifeSharpening type="boolean">false</KnifeSharpening>
+		<LockRepair type="boolean">false</LockRepair>
+		<Propane type="boolean">false</Propane>
+		<Purolator type="boolean">false</Purolator>
+		<ReKeyLocks type="boolean">false</ReKeyLocks>
+		<ScreenRepair type="boolean">false</ScreenRepair>
+		<SkateSharpening type="boolean">false</SkateSharpening>
+		<SpecialOrders type="boolean">false</SpecialOrders>
+		<ToolRental type="boolean">false</ToolRental>
+		<WeddingRegistry type="boolean">false</WeddingRegistry>
+		<WindowRepair type="boolean">false</WindowRepair>
+	</Services>
+	<CustomServices>
+		<CustomService>Custom Blinds</CustomService>
+		<CustomService>Electronic Recycling Collection</CustomService>
+	</CustomServices>
+	<Hours>
+		<Sunday Status="Closed"></Sunday>
+		<Monday Status="Open">
+			<Open>08:00</Open>
+			<Close>20:00</Close>
+		</Monday>
+		<Tuesday Status="Open">
+			<Open>09:00</Open>
+			<Close>21:00</Close>
+		</Tuesday>
+		<Wednesday Status="Open">
+			<Open>10:00</Open>
+			<Close>22:00</Close>
+		</Wednesday>
+		<Thursday Status="Open">
+			<Open>11:00</Open>
+			<Close>23:00</Close>
+		</Thursday>
+		<Friday Status="Open">
+			<Open>12:00</Open>
+			<Close>00:00</Close>
+		</Friday>
+		<Saturday Status="Open">
+			<Open>13:00</Open>
+			<Close>01:00</Close>
+		</Saturday>
+	</Hours>
+	<OwnerMessage></OwnerMessage>
+</Store>
+
+</Stores>
+
